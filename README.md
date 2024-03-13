@@ -5,6 +5,14 @@
 
 Dados tres números a, b y c, correspondientes a la longitud de los lados de una figura geométrica, determinar si pueden formar los lados de un triángulo.
 
+### ANALISIS
+para saber si 3 numeros forman un tiangulo hacemos las sigientes operaciones:
+- a + b > c
+- a + c > b
+- b + c > a
+
+si son verdaderas los numeros forman un triangulo y si no son verdaderas no forman un triangulo
+
 ## DISEÑO
 
 ### Diagrama de flujo
